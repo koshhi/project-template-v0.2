@@ -34,7 +34,7 @@ Si solo quieres entender el sistema, este es el orden recomendado:
 7. [PROJECT_BOOTSTRAP.md](./PROJECT_BOOTSTRAP.md)
 8. [NEW_PROJECT_CHECKLIST.md](./NEW_PROJECT_CHECKLIST.md)
 
-Si quieres usarlo para arrancar un proyecto nuevo, empieza por:
+Si fueras arrancar un proyecto nuevo, empiezarías por:
 
 1. [PROJECT_BOOTSTRAP.md](./PROJECT_BOOTSTRAP.md)
 2. [NEW_PROJECT_CHECKLIST.md](./NEW_PROJECT_CHECKLIST.md)
