@@ -5,21 +5,21 @@
 Este template no intenta ser un framework mágico ni una metodología cerrada. Su objetivo es más concreto: dar una base mínima y disciplinada para que el contexto del proyecto no quede repartido entre chats, prompts, reuniones y documentos sueltos.
 
 Está pensado para proyectos que quieren:
-- reducir pérdida de contexto
-- hacer explícitas decisiones de producto y arquitectura
-- mejorar handoff entre personas y agentes
-- mantener trazabilidad entre estrategia, ejecución y código
-- evitar crear segundas fuentes de verdad
+- Reducir pérdida de contexto
+- Hacer explícitas decisiones de producto y arquitectura
+- Mejorar handoff entre personas y agentes
+- Mantener trazabilidad entre estrategia, ejecución y código
+- Evitar crear segundas fuentes de verdad
 
 ## Qué incluye
 
-- estructura base de carpetas para producto, gestión, diseño y documentación técnica
-- reglas documentales y jerarquía de fuentes de verdad
-- contrato de trabajo para Claude, Codex y otros agentes
-- guía de bootstrap para convertir el template en un proyecto real
-- checklist de arranque para no dejar placeholders ni ejemplos ficticios
-- templates e issue templates para trabajo repetible
-- ejemplo mínimo de flow, fase y ADR enlazados entre sí
+- Estructura base de carpetas para producto, gestión, diseño y documentación técnica
+- Reglas documentales y jerarquía de fuentes de verdad
+- Contrato de trabajo para Claude, Codex y otros agentes
+- Guía de bootstrap para convertir el template en un proyecto real
+- Checklist de arranque para no dejar placeholders ni ejemplos ficticios
+- Templates e issue templates para trabajo repetible
+- Ejemplo mínimo de flow, fase y ADR enlazados entre sí
 
 ## Cómo leer este repo
 
