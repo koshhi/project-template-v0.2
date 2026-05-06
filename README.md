@@ -25,7 +25,7 @@ Está pensado para proyectos que quieren:
 
 Si solo quieres entender el sistema, este es el orden recomendado:
 
-1. [README.md](./README.md)
+1. [README.md](./README.md) (Documento actual)
 2. [PROJECT_SCAFFOLD.md](./PROJECT_SCAFFOLD.md)
 3. [PROJECT_MAP.md](./PROJECT_MAP.md)
 4. [DOCUMENTATION_RULES.md](./DOCUMENTATION_RULES.md)
